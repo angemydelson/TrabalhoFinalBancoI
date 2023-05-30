@@ -1,4 +1,5 @@
 # TrabalhoFinalBancoI
+# OBS: Não é um projeto integrador. É um projeto exclusivamente para a matéria de banco I
 1.Empresa
 a) Nome da empresa : Le créole Hortifruti
 b) Cidade : Chapecó
